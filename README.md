@@ -1,4 +1,5 @@
 <img width="1584" height="664" alt="iPhone Sales Interactive Excel Dashboard" src="https://github.com/user-attachments/assets/1fcc691b-e8b3-4f93-a173-b7a78b8527bd" />
+
 # iPhone Sales Interactive Dashboard
 
 An interactive sales analytics dashboard built in Microsoft Excel, powered by the `iphone_sales_dataset.csv` dataset. It delivers real-time insights into iPhone sales performance across models, countries, time periods, and payment methods using PivotTables, PivotCharts, Slicers, and a Timeline.
