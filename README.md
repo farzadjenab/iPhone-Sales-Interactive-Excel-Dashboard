@@ -1,4 +1,5 @@
-<img width="1584" height="664" alt="iPhone Sales Interactive Excel Dashboard" src="https://github.com/user-attachments/assets/1fcc691b-e8b3-4f93-a173-b7a78b8527bd" />
+<img width="1641" height="646" alt="image" src="https://github.com/user-attachments/assets/2fa2e6f6-da68-48e1-9be7-a22b0cfa151d" />
+
 
 # iPhone Sales Interactive Dashboard
 
